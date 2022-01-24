@@ -3,7 +3,6 @@
 
 - 🔭 Estou Atualmente trabalhando como Monitor Tecnico.
 - 🌱 Estudando JavaScript e alguns Frameworks.
-- 😄 Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/victorHMR">
