@@ -3,6 +3,8 @@
 
 - 🔭 Estou Atualmente trabalhando como Monitor Tecnico.
 - 🌱 Estudando JavaScript e alguns Frameworks.
+- 🌟 Adoro iniciar projetos pequenos...mas fico triste quando chegam ao fim. :(
+- 🖥  Gosto de aprender novas tecnologias, estudar diferentes estruturas de codigo e orientações. 
 
 <div align="center">
   <a href="https://github.com/victorHMR">
