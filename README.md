@@ -24,9 +24,13 @@
   <img align="center" height="30"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" height="30"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" height="30"  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    
   <!---  
   <img align="right" height="150" style="border-radius:50px;" src="">
 -->
+    
+    
+    
 </div>
  
 <div> 
