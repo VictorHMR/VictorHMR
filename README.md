@@ -4,7 +4,6 @@
 -  Estou Atualmente trabalhando como Desenvolvedor Backend, utilizo .Net 6.
 -  Gosto muito de criar projetos pessoais relacionados a meus hobbies.
 -  Gosto de aprender novas tecnologias, estudar diferentes estruturas de codigo e orientações.
--  Como hobbie, tirando a programação atualmente eu gosto de tocar guitarra, assistir series, desenhar e jogar.
 
 <div align="center">
   <a href="https://github.com/victorHMR">
