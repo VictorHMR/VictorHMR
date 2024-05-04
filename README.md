@@ -1,9 +1,9 @@
 ## Olá ! Sou Victor Hugo !
 
-
--  Estou Atualmente trabalhando como Desenvolvedor Backend, utilizo .Net 6.
--  Gosto muito de criar projetos pessoais relacionados a meus hobbies.
+-  Possuo maior experiencia como desenvolvedor backend, apesar de também possuir como fullstack.
+-  Estou atualmente estudando Angular 2+.
 -  Gosto de aprender novas tecnologias, estudar diferentes estruturas de codigo e orientações.
+  
 
 <div align="center">
   <a href="https://github.com/victorHMR">
